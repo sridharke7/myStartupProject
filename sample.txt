@@ -1,1 +1,2 @@
-This is a sample text file
+This is a sample text file.
+I am changing this file to find how Pull request works in Git.
